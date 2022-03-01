@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer by Doctor Black to a letter written to a friend in the countrey, concerning Dr. Broun's Vindicatory schedule, &amp;c. by Philander</title>
+            <author>Black, Doctor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01667</idno>
+            <idno type="STC">Wing B3036A</idno>
+            <idno type="STC">ESTC R176315</idno>
+            <idno type="EEBO-CITATION">52211890</idno>
+            <idno type="OCLC">ocm 52211890</idno>
+            <idno type="VID">175437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175437)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2736:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer by Doctor Black to a letter written to a friend in the countrey, concerning Dr. Broun's Vindicatory schedule, &amp;c. by Philander</title>
+                  <author>Black, Doctor.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: torn; tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brown, Andrew, fl. 1687-1691.</term>
+               <term>Fever --  Etiology --  Early works to 1800.</term>
+               <term>Fever --  Treatment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:175437:1"/>
+            <pb facs="tcp:175437:1"/>
+            <head>AN ANSWER BY <hi>Doctor Black:</hi> TO A LETTER WRITTEN To a Friend in the Countrey, concerning Dr. <hi>Broun's Vin<g ref="char:EOLhyphen"/>dicatory Schedule,</hi> &amp;c. By <hi>Philander.</hi>
+            </head>
+            <p>MUch hath been talked by ſome two or three young Phyſitians, <hi>Dol<g ref="char:EOLhyphen"/>phingtouns</hi> Diſciples (for through all <hi>Scotland</hi> they do not exceed that number) of his Anſwer to the Survey of the <hi>Vindica<g ref="char:EOLhyphen"/>tory Schedule:</hi> It was ſaid to be a piece, that would ſo Nettle the Phyſicians his ſuppoſed Antagoniſts, and ſo confound them; that they ſhould wiſh never to have meddled in the Matter. Now it appears, and ſo Silly a piece
+<pb n="2" facs="tcp:175437:2"/>of Stuff is again obtruded upon the World, that it ſhould not be thought worth the while to Anſwer it, were it not to invite theſe Gen<g ref="char:EOLhyphen"/>tlemen to enter the Liſts; for better than this cannot be expected from <hi>Dolphingtoun,</hi> or from any of his Abilities.</p>
+            <p>The greateſt part of the Survey being ſpent in expoſing the Author, and his <hi>Schedule,</hi> about the end, the <hi>Hypotheſis,</hi> and the method are ſeriouſly Refuted. It might have been ex<g ref="char:EOLhyphen"/>pected that <hi>Dolphingtoun</hi>'s Counſel ſhould have ſuggeſted to him, to ſay ſomething in Vindication of himſelf with reſpect to thoſe matters of Fact, with which he ſtands brand<g ref="char:EOLhyphen"/>ed; and ſomething for the <hi>Hypotheſis,</hi> which really is contrary to the circulation of the Blood, and to the mechanical ſtructure of the Heart and Arteries; and ſomewhat like wayes in favour of his method from reaſon; as alſo in defence of the many paſſages of his Book, which are taxed with Nonſenſe, or Contra<g ref="char:EOLhyphen"/>diction. But all theſe he hath induſtriouſly a<g ref="char:EOLhyphen"/>voided, judging it fitter to amuſe the World with general Terms, (which every Blockhead that meets with oppoſition, may ſay in his own defence) and reflections upon the Au<g ref="char:EOLhyphen"/>thor of the Survey, whom he will not allow to be one; but through all his Letter he ſpeaks
+<pb n="3" facs="tcp:175437:2"/>of him in the Plural Number; I ſuppoſe 'tis be<g ref="char:EOLhyphen"/>cauſe having in the 9th page called himſelf a Champion, he thinks one too few to grapple with him. The truth is the greateſt part of the Survey admits no Anſwer, it being either his own in <hi>Terminis,</hi> or moſt natural conſe<g ref="char:EOLhyphen"/>quences drawn from it, intermixt with mat<g ref="char:EOLhyphen"/>ters of Fact, which he hath left, as he found them, not thinking it convenient to rip up old Sores.</p>
+            <p>Before I enter upon examination of his Letter, it is to be obſerved that he hath got ſome good by the Survey; for his Friends have helped him to wipe his Stile, though not to any great degree: and under the covert of this, and the perſonating another, he ex<g ref="char:EOLhyphen"/>pects to hide himſelf: Yet in ſpite of this ar<g ref="char:EOLhyphen"/>tifice, his <hi>Synonima,</hi> which without doubt he hath learned at the Letren, and his per<g ref="char:EOLhyphen"/>plexed Banter diſcover him perpetually.</p>
+            <p>He begins his Letter with a ridiculous ſtory of Grief, and Pleaſure, which many have with relation to him and his method: <hi>They have grief,</hi> ſayes he, <hi>when they conſider that their Friends, who dyed of Feavers, were not treated by the purging method; ſince ſo much can be ſaid for that method from reaſon, and experience.</hi> But for all this fair flouriſh
+<pb n="4" facs="tcp:175437:3"/>he ſayes never a word for it either from Rea<g ref="char:EOLhyphen"/>ſon or experience, except in the end, where he gives ſome inſtances of Cures (of which in their due place) and he leaves unanſwered, what was ſaid in the Survey againſt the me<g ref="char:EOLhyphen"/>thod both from reaſon, and experience. In the next place he tells us <hi>that leaſt the Phyſicians ſhould be branded with over ſight, or negligence becauſe they have not been the firſt Diſcover<g ref="char:EOLhyphen"/>ers or Entertainers of this method, therefore they ſuppreſs it.</hi> Which is a groſs Calumny: I know no Phyſician either ſo wicked, or fool<g ref="char:EOLhyphen"/>iſh, as to refuſe a better method, than what at preſent he practiſeth, ſo he can be convinced, that there is any ſuch: But I think no wiſe Phyſician will quite the method he has found ſuccesful, for a new one eſtabliſhed only up<g ref="char:EOLhyphen"/>on the practice of one or two inconſiderable Phyſicians, and theſe as unſuccesful as o<g ref="char:EOLhyphen"/>thers; eſpecially ſince Reaſon hath formed ſo many prejudices againſt it, that 'tis impoſ<g ref="char:EOLhyphen"/>ſible for a judicious Perſon following the dictates of his Reaſon, to determine himſelf that way. Beſides 'tis diſingenous in <hi>Dol<g ref="char:EOLhyphen"/>phingtoun</hi> to ſay that any foul means have been uſed to ſuppreſs this his method: I know ſome foul ones have been uſed to advance it, and its admirers; whereof ſome ſtand unan<g ref="char:EOLhyphen"/>ſwered in the Survey.</p>
+            <p>
+               <pb n="5" facs="tcp:175437:3"/>
+The 2d. Parag. Is ſtuff't with <hi>Dolphing<g ref="char:EOLunhyphen"/>toun</hi>'s kind ſentiments of pleaſure, that he's become an Author. <hi>For</hi> ſays he <hi>The inquiſi<g ref="char:EOLhyphen"/>tive are not a little delighted to find a concern ſo important handled ſo ingeniouſly, and a Deſign ſo profitable, proſecute ſo plauſibly. Tho the medical Art be truly, if it contain any thing of certainty or reality, hid ſo deep from the eyes of Men, that the world is much in doubt whether it be an Art or Artifice: Yet I find as ye likewayes obſerve, that the Au<g ref="char:EOLhyphen"/>thor in his Book has done prettily to prove it an Art.</hi> Truly Fool-<hi>Andrew</hi> (for I cannot otherwayes decipher this <hi>Philander</hi>) what you have ſaid here may give the world a ſuffi<g ref="char:EOLhyphen"/>cient Character of your Vanity. for ſure I am; was never more Incenſe burnt to Self-conceit, than is done here: I muſt ſay Medicine has little to ſay for it ſelf, it depend upon <hi>Dol<g ref="char:EOLhyphen"/>phingtoun</hi>'s <hi>prettily done Book</hi> to prove it an Art.</p>
+            <p>What he talks of the Phyſicians faults in 3d, parag. I know none ſo guilty as himſelf of theſe faults for which he blames Others; nei<g ref="char:EOLhyphen"/>ther do I know any Phyſician troubled about his charging them with faults, nor grudging at it; ſo he might have had ſpared his pains.</p>
+            <p>'Twas no wonder if the Phyſicians hu<g ref="char:EOLhyphen"/>mours
+<pb n="6" facs="tcp:175437:4"/>had been raiſed, as he tells In the 4th, parag. To find an original piece of Banter obtruded upon the World, in defence of a new method in Medicine, Stuff't with a Col<g ref="char:EOLhyphen"/>lection of things pick's up here, and there, at Random; which have no more relation to one another, then his <hi>Schedule</hi> hath to Learning, or Senſe: But they have neither breathed out Malice, nor Spite againſt him; they have on<g ref="char:EOLhyphen"/>ly told the truth to his Shame, were he Ca<g ref="char:EOLhyphen"/>pable of any.</p>
+            <p>The 5th, parag. Muſt be Uſher'd in with <hi>Revolutions, Reformations, Strugle, and Commotion, Changes, and Earthquakes.</hi> One would think the <hi>Cat</hi> of <hi>Smalholm</hi> were pro<g ref="char:EOLhyphen"/>phecying that the whole courſe of Nature ſhould be in danger to be diſſolved, when <hi>Dolphingtouns</hi> new method were introduced into the World. His Meſſenger of Satan did not ſucceed with him ſo well, to abuſe the Scriptures again. As his Friend, I would adviſe him to quite his Tub-preaching to others.</p>
+            <p>As to the 6th, parag. To bring in himſelf upon other mens practice, is as notable an in<g ref="char:EOLhyphen"/>ſtance of his <hi>Envy,</hi> as any thing I know. Of Pride he hath arraigned himſelf already, ac<g ref="char:EOLhyphen"/>knowledging he needed Buffetting for his loftineſs of mind.</p>
+            <p>
+               <pb n="7" facs="tcp:175437:4"/>
+All that's ſaid in the 7th, parag. about <hi>Splendour, and brightneſs of Truth, and light of raiſing Dirt and Mist to throw upon the Propagators and Advancers of Truth,</hi> is as far out of his road, as are his ridiculous ſtories of <hi>Luther,</hi> and the <hi>Devil;</hi> Sir, <hi>Satan,</hi> and Dr. <hi>Sherlock,</hi> But in his <hi>Schedule</hi> he gives us a <hi>Specimen</hi> of his reading in Medicine: Now he gives us one in Pamphlets. As for his <hi>Book,</hi> it has got a more ſolid Anſwer, than it de<g ref="char:EOLhyphen"/>ſerved: So he ſeems to be a falſe <hi>Prophet.</hi>
+            </p>
+            <p>For Anſwer to the 8th, parag. I know none that thought the debate in hand of great im<g ref="char:EOLhyphen"/>portance: The method was Doctor <hi>Syden<g ref="char:EOLhyphen"/>ham</hi>'s, and the <hi>Schedule</hi> was publiſhed to ſtrengthen the Doctors Reaſonings; but by ill luck it weakened them: Solid reaſons were given for the not uſing the method, but no<g ref="char:EOLhyphen"/>thing can convince a head-ſtrong Fool ena<g ref="char:EOLhyphen"/>moured with the productions of his own brain: Neither is the Survey ridiculous, but ſo much of it as is his. And for the perſonal reflections, they are all very true, and are in relation to his practice; ſo that Merry <hi>Andrew</hi> hath ac<g ref="char:EOLhyphen"/>quit himſelf like a man of <hi>parts,</hi> in giving an anſwer, ſuch as the ſubject deſerved, or could bear; like a man <hi>Probity,</hi> in expoſing one, whoſe deſign is to Cozen the World: And
+<pb n="8" facs="tcp:175437:5"/>were Fool-<hi>Andrew</hi> a man of parts, he might Bluſh for his Book; but how it ſhould Bluſh I doe not underſtand. If he will not be adviſ<g ref="char:EOLhyphen"/>ed to leave off his Tub-preaching, at leaſt he would take care to cite the Scriptures right, for <hi>Faith</hi> is here ſet down for <hi>Hope.</hi>
+            </p>
+            <p>For Anſwer to the 9th, parag. I ſhall not condeſcend upon theſe men he charges with <hi>Impudence,</hi> and <hi>Folly,</hi> ſince he thought it not fit to name them; but ſure I am, they have a larger ſhare of both, than any of my ac<g ref="char:EOLhyphen"/>quaintance, if their <hi>Impudence or Folly</hi> come near his. The ancient practice in Feavers hath been more ſuccesful than his new practice, my aſſertion is as good as his denyal, and much better grounded. <hi>If it be deluſion to think to put off the world with Banter,</hi> &amp;c. <hi>In ſuch a weighty matter as this is,</hi> why hath he wrote a Book of Banter in this matter? and this very Letter of his is not free of it; for here is a new Eſſay of that kind, <hi>though the petulancy of ſome ſuperficial Pates like the Authors, may be tickled, and Palats tinged with the ſame virulence of Malice with the Libellers, may be gratified with ſuch ſcurrili<g ref="char:EOLhyphen"/>ties:</hi> So natural is this ſtile to him, that in ſpite of his Feigned Perſon, and other endea<g ref="char:EOLhyphen"/>vours to conceal himſelf yet his ſpeech ſtill bewrayes him.</p>
+            <p>
+               <pb n="9" facs="tcp:175437:5"/>
+There is nothing in the 10th, parag. That deſerves obſervation.</p>
+            <p>For Anſwer to the 11th, parag. The Sur<g ref="char:EOLhyphen"/>vey ſent him to <hi>Purgatory</hi> to Refine him from his Droſs; but he, ever fertile of new methods, hath found out a new way of Re<g ref="char:EOLhyphen"/>fining himſelf, which is to <hi>Snuff</hi> him, as they do a <hi>Candle,</hi> that his vertue may ſhine more bright. Here we have a new Eſſay ſomething in kin to <hi>Banter, to Enconter Malice cartel Envy, and to defy detraction and defamation.</hi>
+            </p>
+            <p>For Anſwer to the 12 parag he knows that D, <hi>Dal.</hi> and D, <hi>Dav.</hi> Entreated him not to publiſh his <hi>Schedule,</hi> yet out it came, ſo im<g ref="char:EOLunhyphen"/>poſſible is it to perſwade Fools who are ever Fond of their own Productions And ſince he ſubjected his <hi>Schedule</hi> to the conſideration of all Ingenious Phyſicians, he hath got the ſenti<g ref="char:EOLhyphen"/>ments of ſome of them about it little to his ſa<g ref="char:EOLhyphen"/>tisfaction; but nothing but applauſe will pleaſe him, which no Ingenuous Phyſician can give.</p>
+            <p>For Anſwer to the 13th parag. her's ano<g ref="char:EOLhyphen"/>ther Inſtance of his Fondneſs of his ofspring. I ſhall allow him to compare himſelf to the Fatteſt fruit (he means the Apples of <hi>Sodom</hi>) or to the Fatteſt Dear Horns and all together for I ſhall not deny him a vegetable or ſenſi<g ref="char:EOLhyphen"/>tive Life: But to prefer himſelf to <hi>Themisto<g ref="char:EOLhyphen"/>cles</hi>
+               <pb n="10" facs="tcp:175437:6"/>who can endure this? That loftineſs of mind has yet need of the Meſſenger of <hi>Satan.</hi>
+            </p>
+            <p>For Anſwer to the 14th parag. All the ſo<g ref="char:EOLhyphen"/>ber and ſerious Men here are comprehended within the number of two or three young Phyſicians, who think to be taken notice off by pretending to ſomething new, and out of the common road; but if they have nor much honour of their Maſter, I leave it to every in<g ref="char:EOLhyphen"/>different Perſon to judge. He did well not to end his Latine verſe, leaſt he ſhould fall into the ſame Soloeciſmes he did laſt. A ridiculous piece ought to be treated inridicule, which is not ſo ſham a way of reaſoning. If the Survey had been ſuch Merry <hi>Andrew</hi> ſtuff, it might have been the more eaſiy anſwered by thoſe who have ſo much Affinity to that kind of People; but it is a Pamphlet ſtuff't with ſo much reaſon and truth, that <hi>Dolphingtoun</hi> hath not found it convenient to attaque any particular part of it. But of all men alive why ſhould <hi>Philander</hi> challenge Dr. <hi>Black</hi> for concealing his name.</p>
+            <p>The reſt of his Letter, is taken up in perform<g ref="char:EOLhyphen"/>ing what the <hi>Schedule</hi> firſt prompted to be done. But were it not for fear to give offence to ſome Perſons who do not deſire their Rela<g ref="char:EOLhyphen"/>tions to be named, the publick ſhould get a counterliſt of thoſe that have died under <hi>Dol<g ref="char:EOLhyphen"/>phingtouns</hi>
+               <pb n="11" facs="tcp:175437:6"/>new method. I ſhall not queſtion but ſome have eſcaped under this me<g ref="char:EOLhyphen"/>thod, which only proves, that People though ill Treated may recover. But it is not at all reaſonable that I ſhould believe all thoſe People had truely we Feaver, ſince <hi>Dol<g ref="char:EOLhyphen"/>phingtoun</hi> had the impudence to call that a Feaver which two of the moſt eminent Phyſicians in <hi>Edinburgh</hi> ſaid was none, what will he not ſay where he is ſole Phyſician, and can meet with no contradiction. Upon the whole, that part of <hi>Hip.</hi> Firſt Aph. may be very well applyed here, <hi>Experientia Fallax.</hi>
+            </p>
+            <p>The Letter wrote by <hi>Malthus</hi> to Dr. <hi>Pit<g ref="char:EOLhyphen"/>carne</hi> came never to the Doctors hands, and was never ſeen by any but <hi>Dolphingtoun,</hi> ſo not to be Credited, but ſaid upon deſign: But let is be ſo as he would have it, will the Teſti<g ref="char:EOLhyphen"/>mony of an Apothecary intereſſed upon <hi>Sy<g ref="char:EOLhyphen"/>denham</hi>'s Account, ruin a method approved by Thouſands for many Hundred of Years, to eſtabliſh a new one with ſuch manifeſt con<g ref="char:EOLhyphen"/>tradiction? I think 'twill not.</p>
+            <p>Though <hi>Dolphingtouns</hi> ridiculous Hypo<g ref="char:EOLhyphen"/>theſis was ſufficiently refuted before in few words, yet finding ſome of our young Phyſi<g ref="char:EOLhyphen"/>tians applauding it, I thought it would not be amiſs to touch it again. I doe not think it
+<pb n="12" facs="tcp:175437:7"/>ſtrange for one of <hi>Dolphingtoun</hi>'s Education to have ſuch a confuſed notion of things, he having never been Abroad at any Univerſity to follow the ſtudy of Medicine by the ad<g ref="char:EOLhyphen"/>vice and direction of able Profeſſors appoint<g ref="char:EOLhyphen"/>ed for that end: And having received his De<g ref="char:EOLhyphen"/>grees only at <hi>Aberdeen,</hi> where there is no pro<g ref="char:EOLhyphen"/>feſſion of Medicine. Nothing leſs could have been expected from one who had never read the Inſtitutions, had never ſeen any diſ<g ref="char:EOLhyphen"/>ſections, courſes of <hi>Chymiſtry,</hi> nor heard any Colledges upon the practice of Medicine. But for others to pretend to have had a more liberal Inſtitution, and yet robe Proſelites to Doctor <hi>Dolphingtouns;</hi> who can think they have any regard to their Reputation?</p>
+            <p>There is nothing more abſurd in all his <hi>Schedule</hi> than the, 7th and 8th, Sections about His Hypotheſis of the Eſſence and cauſe of Fea<g ref="char:EOLhyphen"/>vers. Every Phyſician knows that the heart is a Muſcle endued with ſpiral Fibres fitted for Contraction; that it hath two Ventricles for reception of the Blood in its dilatation; that it hath valvules of two kinds to hinder the return of the Blood from the Arteries to the heart again; that the Arteries have tranſ<g ref="char:EOLhyphen"/>verſe Fibres, by which they contract them<g ref="char:EOLhyphen"/>ſelves and preſs forward the Blood; 'Tis cer<g ref="char:EOLhyphen"/>tain
+<pb n="13" facs="tcp:175437:7"/>that every part that is contracted has an innate faculty to perform that Action, which is done by the influx of the animal Spirits in<g ref="char:EOLhyphen"/>to the Fibres of whatever kind they are. On the contrary it is as certain that all parts, that are dilated, can never dilate themſelves, but when dilated they do ever ſuffer Violence from the humours, or what ever elſe they contain ('Tis true the <hi>Pharinx</hi> and the <hi>Car<g ref="char:EOLhyphen"/>tilagines Aritenoides</hi> are dilated, not by any thing they contain, but by reaſon of the Muſ<g ref="char:EOLhyphen"/>cles joyned to the outſide of either, ſo is the mouth dilated by the Muſcles of the nether jaws.) 'Tis alſo certain that the Ventricles of the heart (every one of which containeth at leaſt a Dragme of Blood when dilated) are of the ſame ſubſtance with the inner Coats of the Arteries and Veins, and are ſenſible of ir<g ref="char:EOLhyphen"/>ritation; that in the dilatation of the Heart, the Quantity, the Heat, the Weight, and the Diſtention through the efferveſcence of the Blood doe irritat it; that this irritation makes the heart contract it ſelf without reſpect to a final Cauſe (as this Dreamer Fancies to himſelf; that at the ſame inſtant of the hearts contraction, the Blood is thruſt out with Vio<g ref="char:EOLhyphen"/>lence into the <hi>Aorta</hi> and by Continuity in<g ref="char:EOLhyphen"/>to all the Arteries of the Body, by which
+<pb n="14" facs="tcp:175437:8"/>they are dilated, while the heart is contract<g ref="char:EOLhyphen"/>ed; and that the Pulſe that ſtricks our Fin<g ref="char:EOLhyphen"/>gers, is nothing elſe but the Dilatation of the Arteries, occaſioned by the contraction of the Heart at the ſame inſtant. For <hi>Dolphing<g ref="char:EOLhyphen"/>toun</hi> then to allow, that in a Feaver the pulſes are more frequent, and yet to ſay that the mo<g ref="char:EOLhyphen"/>tion of the Blood is more ſlow, this is the great<g ref="char:EOLhyphen"/>eſt Nonſenſe one can be capable of For at eve<g ref="char:EOLhyphen"/>ry pulſe I ſuppoſe but adragme of the Blood to bethruſt into the Arteries by the contraction of the Heart, this Blood can not return becauſe of the Valvules, forward it muſt go, otherwayes the Arteries ſhould burſt aſunder; and conſe<g ref="char:EOLhyphen"/>quently the more frequent the pulſes are, the motion of the Blood muſt be the ſwifter.</p>
+            <p>It has been alwayes a received Opinion, that heat in a Feaver is the effect of the ra<g ref="char:EOLhyphen"/>pide motion of the Blood Neither does <hi>Dolph<g ref="char:EOLhyphen"/>ingtoun's</hi> or <hi>Bontilo's</hi> objection deſtroy this poſition, for though the Blood Stagnat in an Inflammation, where the member is other<g ref="char:EOLhyphen"/>wayes affected with more than ordinary heat; yet there being ſuch a quantity of extra<g ref="char:EOLhyphen"/>vaſed Blood, which does not coagulat, but is ſtill fluid, becauſe of the few Spirits it retains; And the capillary Arteries being diſtended with Blood, which is the cauſe of the pulſe, where
+<pb n="15" facs="tcp:175437:8"/>there was none <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; 'tis no wonder if that part be affected <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h more than ordinary heat, ſince it c<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ains more than ordinary Blood; for where there is much Blood there Is much heat. I ſhall only ſend <hi>Dolphing<g ref="char:EOLhyphen"/>toun</hi> home to Churn his <hi>Butter<g ref="char:punc">▪</g>
+               </hi> to prove that there is heat in Fluids; after a few hours motion of the Churn he will find the heat he denies; I uſe this Familiar inſtance, becauſe he never found the heat that is raiſed, when the ſpirit of <hi>Vitriol</hi> is poured upon the Oyle of <hi>Tartar,</hi> ſince he never ſaw the experiment. In immoderate motion of the Body there Is a frequent motion of the Blood, occaſion<g ref="char:EOLhyphen"/>ed by the frequent motion of the Muſcles, by this motion the heat is raiſed before there be any Conſumption or Waſte. In this mo<g ref="char:EOLhyphen"/>tion likewayes the Blood is rarified by the heat, the pores are opened, and ſweat does for the moſt part follow: But becauſe of the ſepa<g ref="char:EOLhyphen"/>ration of the ſerous part, the Blood at length becomes more thick, which does not fall out till the pulse ſettle again; But this Fool miſ<g ref="char:EOLhyphen"/>takes alwayes the cauſe for the Effect.</p>
+            <p>His Diaphanous Blood, and his reflected, and refracted, rayes of heat in the Body are nonſenſe not worth the refuting.</p>
+            <p>
+               <pb n="16" facs="tcp:175437:9"/>
+After all, this ma<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not given us the definition of a Feaver, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which we may know its Nature, and E<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ce, and its diffe<g ref="char:EOLhyphen"/>rence from other Diſeaſes. But being weary to anſwer a Fool in his Folly, I leave this <hi>Miſ<g ref="char:EOLhyphen"/>anthrope</hi> to his own evil Genius, with this aſſurance, that whatever further he writes, ſhall never be thought worthy of my Con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175437:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
